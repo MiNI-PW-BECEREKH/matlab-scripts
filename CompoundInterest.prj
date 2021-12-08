@@ -1,0 +1,60 @@
+<deployment-project plugin="plugin.apptool" plugin-version="1.0">
+  <configuration build-checksum="678731831" file="C:\Users\suhey\Desktop\matlab-scripts\CompoundInterest.prj" location="C:\Users\suhey\Desktop\matlab-scripts" name="CompoundInterest" target="target.mlapps" target-name="Package App">
+    <param.appname>CompoundInterest</param.appname>
+    <param.authnamewatermark>Suheyb Becerek</param.authnamewatermark>
+    <param.email>suheybbecerek@gmail.com</param.email>
+    <param.company>-</param.company>
+    <param.icon />
+    <param.icons />
+    <param.summary>matlab UI application to calculate Compound interest</param.summary>
+    <param.description />
+    <param.screenshot>C:\Users\suhey\AppData\Local\Temp\tp67d5406d_c68c_4de7_9d1f_7bd977c37908.png</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.output>${PROJECT_ROOT}</param.output>
+    <param.guid>a8ab71c2-8dd1-4784-acff-a3a2f9ad40e8</param.guid>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.description />
+      <param.version />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.output />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\CompoundInterest.mlapp</file>
+    </fileset.main>
+    <fileset.depfun />
+    <fileset.resources />
+    <fileset.package />
+    <build-deliverables>
+      <file location="C:\Users\suhey\Desktop" name="matlab-scripts" optional="false">C:\Users\suhey\Desktop\matlab-scripts</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>E:\MATLAB\R2021a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
